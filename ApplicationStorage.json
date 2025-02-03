@@ -1,0 +1,48 @@
+{
+    "Applications": [
+        {
+            "LocalId": 170357127,
+            "Application": {
+                "CmsId": 101829811,
+                "CmsVersion": 1,
+                "DisplayName": "VLC media player",
+                "ShortName": "vlc",
+                "Version": "generic",
+                "Distributor": "",
+                "InstallDirectory": "C:\\Program Files\\VideoLAN\\VLC\\",
+                "DetectedFiles": [
+                    "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+                    "C:\\Program Files\\VideoLAN\\VLC\\libvlc.dll"
+                ],
+                "ImageFiles": [
+                    "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+                ],
+                "LaunchCmd": "vlc.exe",
+                "IsOpsSupported": true,
+                "UseDesktopResolution": false,
+                "UseLowResolutions": false,
+                "HypersamplingQuality": -1,
+                "HypersamplingFactors": [],
+                "IsStreamingSupported": false,
+                "StreamingCmdLine": "",
+                "StreamingCaption": "",
+                "StreamingClassName": "",
+                "StreamingAutomatedLaunch": false,
+                "DriverProfile": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+                "IsCreativeApplication": true,
+                "SendTelemetryForGFESupportedApps": true,
+                "UseDRSForTelemetry": false,
+                "ChromaAppId": "c8de91fe-bb96-4627-a1a7-ac0afba12576",
+                "InitialTimeISO": "2025-01-31T16:05:49Z",
+                "LastLaunchTimeISO": "1601-01-01T00:00:00Z",
+                "IsManuallyAdded": false,
+                "IsFingerprintDetected": true,
+                "Disable_FG_Override": true,
+                "Disable_RR_Override": true,
+                "Disable_SR_Override": true,
+                "Disable_RR_Model_Override": true,
+                "Disable_SR_Model_Override": true
+            }
+        }
+    ]
+}
